@@ -10,7 +10,5 @@ Presentation slides for an introduction on technical imaging of cultural heritag
 
 These presentation slides are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-<br/><br/>
-
 
 ![cc-by-nc-sa](https://github.com/fligt/technical-imaging-workshop/blob/master/images/88x31.png)
