@@ -2,7 +2,7 @@
 
 Presentation slides for an introduction on technical imaging of cultural heritage objects.  
 
-<a href="https://raw.githubusercontent.com/fligt/technical-imaging-workshop/main/how-imaging-systems-work.pdf"> 
+<a href="https://raw.githubusercontent.com/fligt/technical-imaging-workshop/master/how-imaging-systems-work.pdf"> 
 
 <img width=80% src="https://github.com/fligt/technical-imaging-workshop/blob/master/images/eye.svg">
 
